@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Castle
+  - EnemyCastle
+  - MidTower
+  - Tower
+  - PlayerCastle
+  - Enemy
+  - ManaCrystal
+  - Card
+  - Dead
+  - GameMaster
+  - PlayerCastleTower
+  - EnemyCastleTower
+  - Canvas
+  - EndScene
   layers:
   - Default
   - TransparentFX
